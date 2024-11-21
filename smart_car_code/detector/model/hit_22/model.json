@@ -1,0 +1,6 @@
+{
+    "model": "hit_22",
+    "threshold": 0.8,
+    "label_list": [ "background","badperson","badperson2","goodperson","goodperson2","trade"],
+    "class_num": 5
+}
